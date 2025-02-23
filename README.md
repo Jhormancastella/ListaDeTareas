@@ -1,6 +1,6 @@
 # Taller de Java
 
-## 🚀 Ejercicio #2 Lista de Tareas con LinkedHashSet
+## 🚀 Ejercicio #5 Lista de Tareas con LinkedHashSet
 
 ## 📌 Propósito
 
